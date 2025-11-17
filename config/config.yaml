@@ -101,5 +101,5 @@ platforms:
     name: "知乎"
   - id: "twitter"
     name: "https://x.com"
-    - id: "github"
-    name: "https://github.com/trending"
+  - id: "github"
+    name: "GitHub"
